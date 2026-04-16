@@ -1,0 +1,6 @@
+{
+  "name": "Celestial Control System (CCS-AI)",
+  "description": "A production-grade, AI-powered real-time system visualization platform combining distributed system simulation, ML-based anomaly detection, and immersive 3D celestial visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

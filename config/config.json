@@ -1,0 +1,6 @@
+{
+  "nodes": 12,
+  "anomaly_probability": 0.05,
+  "update_interval": 1000,
+  "cascading_failure_chance": 0.3
+}
